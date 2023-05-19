@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">One Calculator</string>
+
+    <dimen name="button_height">75dp</dimen>
+    <dimen name="textSize">25sp</dimen>
+    <dimen name="buttonMargin">0.5dp</dimen>
+    <dimen name="layout_height">70dp</dimen>
+
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="dot">.</string>
+    <string name="modulo">%</string>
+    <string name="equal">=</string>
+    <string name="delete">DEL</string>
+    <string name="clear">C</string>
+    <string name="RAD">RAD</string>
+    <string name="DEG">DEG</string>
+
+    <string name="parentheses_open">(</string>
+    <string name="parentheses_close">)</string>
+    <string name="root">"\u221A"</string>
+    <string name="power">^</string>
+    <string name="plus_or_minus">+/<Big>-</Big></string>
+    <string name="square">X<sup><small>2</small></sup></string>
+    <string name="factorial">!</string>
+    <string name="inverse">1/X</string>
+    <string name="e_constant">e</string>
+    <string name="pi">"\u03A0"</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="sin">sin</string>
+    <string name="sin_inverse">sin<sup><small>-1</small></sup></string>
+    <string name="cos">cos</string>
+    <string name="cos_inverse">cos<sup><small>-1</small></sup></string>
+    <string name="tan">tan</string>
+    <string name="tan_inverse">tan<sup><small>-1</small></sup></string>
+    <string name="calculate">Calculate</string>
+
+    <string name="ranawat_calculator_is_developed_by_ranawattech_ranawat_tech_is_a_group_of_passionate_designers_and_front_end_developers_of_mobile_and_web_applications_we_are_on_a_path_to_provide_a_nurturing_environment_for_future_developers_and_designers_who_are_competent_enough_to_learn_and_deliver_great_user_experiences_we_work_in_7_programming_languages_and_various_front_end_frameworks_to_create_our_projects_and_provide_effective_efficient_solutions_rwt_is_a_new_born_start_up_ecosystem_which_functions_in_different_ways_rwt_is_growing_into_a_community_of_smart_dedicated_highly_skilled_developers_ui_ux_designers_often_referred_to_as_the_contributers_they_are_the_growth_engines_of_rwt_rwt_evaluates_it_s_contributers_on_month_by_month_basis_rwt_s_value_contributers_are_rewarded_with_goodies_and_swags_the_contributers_can_sell_promote_their_own_ready_made_projects_designs_on_our_platform_at_zero_commission_costs_besides_that_rwt_also_works_on_custom_on_demand_projects_in_accordance_with_the_customer_requirements_so_if_you_are_really_excited_to_work_contribute_on_a_industry_level_real_time_project_than_it_s_the_perfect_for_you_to_start">This App is developed by <b>RanaWat Tech🍁</b>.
+        <br>RanaWat Tech is a group of passionate designers and front-end developers of mobile and web applications. We are on a path to provide a nurturing environment for future developers and designers who are competent enough to learn and deliver great user experiences.</br>
+      <br> We work in 7+ programming languages and various front-end frameworks to create our projects and provide effective &amp; efficient solutions.</br>
+        <br> RanaWat Tech is a new-born start-up ecosystem which functions in different ways. RanaWat Tech is growing into a community of smart, dedicated &amp; highly skilled developers, UI/UX designers often referred to as the contributors. They are the growth engines of RanaWat Tech. RanaWat Tech evaluates it\'s contributors on month-by-month basis. RanaWat Tech\'s value contributors are rewarded with goodies and swags.
+            The contributors can sell &amp; promote their own ready-made projects &amp; designs on our platform at zero-commission costs. Besides that RanaWat Tech also works on custom on-demand projects in accordance with the customer requirements. So if you are really excited to work &amp; contribute on a industry-level real time project than it\'s the perfect for you to start.</br>
+      </string>
+
+    <string name="pp_for_ranawat_calc">At RanaWat Calculator, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by RanaWat Calculator and how we use it.
+        <br> If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</br>
+    </string>
+
+
+</resources>
