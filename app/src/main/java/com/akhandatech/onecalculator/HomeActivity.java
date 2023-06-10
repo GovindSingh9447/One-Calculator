@@ -27,10 +27,8 @@ public class HomeActivity extends AppCompatActivity {
     NumberFormat format, longformate;
     DecimalFormat formatter;
 
-
     //Image MORE
     ImageView more;
-
 
     Intent intent;
 
@@ -46,7 +44,7 @@ public class HomeActivity extends AppCompatActivity {
         more.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //  Intent intent= new Intent(MainActivity.this, MainActivity2.class);
+                 Intent intent= new Intent(HomeActivity.this, DashBoardActivity.class);
                 startActivity(intent);
                 finish();
             }
